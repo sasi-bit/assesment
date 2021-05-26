@@ -24,5 +24,5 @@ Hii,
 <h4>2. Use the package mftool for the data(mftool.readthedocs.io/en/latest/)[Not Done]</h4>
 <p>Actually I begginner to Django So I am Not Able to Understand how to use a package in django project[I mean i am new to this tool I Can't Understand how to use in django project </p>
 
-
+<hr>
 <h4 style="color:blue">Thank you</h4>
