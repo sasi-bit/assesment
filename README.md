@@ -13,4 +13,4 @@ Description
 
 <h3>Here Some Outputs</h3> 
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/sasi-bit/assesment/main/mysite/myapp/Templates/Snap.png" />]
+[<img align="left" alt=""  src="https://raw.githubusercontent.com/sasi-bit/assesment/main/mysite/myapp/Templates/Snap.png" />]
